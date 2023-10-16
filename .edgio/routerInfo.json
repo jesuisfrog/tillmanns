@@ -1,0 +1,106 @@
+{
+  "location": "lambda\\internal\\routes.cjs",
+  "info": [
+    {
+      "criteria": {},
+      "line": 992,
+      "column": 32
+    },
+    {
+      "criteria": {},
+      "line": 1099,
+      "column": 37
+    },
+    {
+      "criteria": {},
+      "line": 1479,
+      "column": 34
+    },
+    {
+      "criteria": {
+        "method": "match"
+      },
+      "line": 4423,
+      "column": 22
+    },
+    {
+      "criteria": {
+        "method": "match"
+      },
+      "line": 4431,
+      "column": 20
+    },
+    {
+      "criteria": {
+        "method": "match",
+        "path": "/(.*)"
+      },
+      "line": 4537,
+      "column": 15
+    },
+    {
+      "criteria": {
+        "method": "post",
+        "path": "/__edgio__/caching"
+      },
+      "line": 4544,
+      "column": 11
+    },
+    {
+      "criteria": {
+        "method": "get",
+        "path": "/__edgio__/caching"
+      },
+      "line": 4542,
+      "column": 15
+    },
+    {
+      "criteria": {
+        "method": "match",
+        "path": "/:path*"
+      },
+      "line": 4570,
+      "column": 9
+    },
+    {
+      "criteria": {
+        "method": "get",
+        "path": "/__edgio__/devtools/disable"
+      },
+      "line": 4563,
+      "column": 9
+    },
+    {
+      "criteria": {
+        "method": "get",
+        "path": "/__edgio__/devtools/enable"
+      },
+      "line": 4556,
+      "column": 9
+    },
+    {
+      "criteria": {
+        "method": "match",
+        "path": "/__edgio__/devtools/:path*"
+      },
+      "line": 4553,
+      "column": 13
+    },
+    {
+      "criteria": {
+        "method": "get",
+        "path": "/"
+      },
+      "line": 4965,
+      "column": 109
+    },
+    {
+      "criteria": {
+        "method": "get",
+        "path": "/:path*"
+      },
+      "line": 4965,
+      "column": 46
+    }
+  ]
+}
